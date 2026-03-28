@@ -1,1 +1,41 @@
-site_name: My Docs
+site_name: waiOS - Who Am I?
+theme:
+  name: material
+  language: pt-BR
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - 🧠 Tecnologia: tecnologia.md
+  - 🏹 Perfis de Domínio: perfis.md
+  - 📥 Download: download.md
+  - 📓 Logs: logs.md
