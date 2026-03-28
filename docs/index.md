@@ -1,18 +1,13 @@
-# 🌑 Manifesto waiOS
+# 🌑 WAI-OS | Who Am I?
 
-O **waiOS** define um novo padrão para estações de trabalho avançadas. Não se trata de uma distribuição convencional, mas de um **Framework de Identidade Digital**.
+<p align="center">
+  <img src="assets/logo.png" alt="WAI-OS Logo" width="200">
+</p>
 
-## 🏗️ Estrutura de Domínios (Perfis)
-O sistema opera em 8 domínios distintos, configurados para responder a gatilhos de hardware e software:
+O **WAI-OS** é uma estação de trabalho adaptativa projetada pela **Way Soft**. Este ambiente foi construído sob a filosofia da **Restrição Celestial**, eliminando o supérfluo para entregar performance bruta e soberania digital a @samuelwhite777.
 
-* **ANON:** Protocolos de anonimato e ofuscação de rede.
-* **TOJI:** Exaustão máxima de performance de hardware.
-* **SATORU:** Monitoramento de segurança e visibilidade total do sistema.
-* **SUKUNA:** Gestão administrativa e orquestração de containers.
-* **NANAMI:** Produtividade focada e gestão de tempo.
-* **YUTA:** Camada de compatibilidade para binários externos.
-* **MAHORAGA:** Mecanismo de autocura via snapshots Btrfs.
-* **ROOT:** Acesso ao núcleo de desenvolvimento do projeto.
+## 🏹 A Roda da Adaptação
+Nosso logo representa a capacidade do sistema de se adaptar e evoluir. O núcleo do WAI-OS utiliza subvolumes Btrfs e o motor WAI-Sight (IA Local) para garantir resiliência e inteligência offline.
 
-## 📑 Status do Desenvolvimento
-Atualmente em fase **Alpha 0.1**. O foco atual reside na estabilização do script **Genesis** e na arquitetura de subvolumes para recuperação de desastres.
+## 🏗️ Status [ALPHA 0.1]
+A fundação técnica (Kernel Zen e Particionamento Btrfs) está consolidada.
