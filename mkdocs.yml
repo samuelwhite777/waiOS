@@ -1,6 +1,7 @@
 site_url: https://wai-os.vercel.app
 site_name: waiOS - Who Am I?
 theme:
+  copyright: "Copyright &copy; 2026 Way Soft"
   name: material
   language: pt-BR
   favicon: assets/favicon.ico
