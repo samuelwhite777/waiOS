@@ -1,21 +1,18 @@
-# 🌑 waiOS: Who Am I?
+# 🌑 Manifesto waiOS
 
-O **waiOS** não é apenas um sistema operacional; é uma **Expansão de Domínio** digital. Construído para ser a ferramenta definitiva de @samuelwhite777 para Segurança, IA, Dev e Lazer.
+O **waiOS** define um novo padrão para estações de trabalho avançadas. Não se trata de uma distribuição convencional, mas de um **Framework de Identidade Digital**.
 
-## 🏹 Pilares de Identidade (A Tríade W+A+I)
-O sistema opera através de 8 estados de consciência (Perfis), trocados instantaneamente via atalhos gamificados:
+## 🏗️ Estrutura de Domínios (Perfis)
+O sistema opera em 8 domínios distintos, configurados para responder a gatilhos de hardware e software:
 
-1.  **ANON** (Invisibilidade Total - Benjamin Engel)
-2.  **TOJI** (Alta Performance Bruta - Fushiguro)
-3.  **SATORU** (Onisciência e Segurança - Gojo)
-4.  **SUKUNA** (Domínio e Administração - Rei das Maldições)
-5.  **NANAMI** (Pragmatismo e Produtividade - 7:3)
-6.  **YUTA** (Mimetismo e Intercompatibilidade - Cópia)
-7.  **MAHORAGA** (Resiliência e Adaptação - Roda da Evolução)
-8.  **ROOT** (A Toca do Coelho - Developer Mode / Matrix)
+* **ANON:** Protocolos de anonimato e ofuscação de rede.
+* **TOJI:** Exaustão máxima de performance de hardware.
+* **SATORU:** Monitoramento de segurança e visibilidade total do sistema.
+* **SUKUNA:** Gestão administrativa e orquestração de containers.
+* **NANAMI:** Produtividade focada e gestão de tempo.
+* **YUTA:** Camada de compatibilidade para binários externos.
+* **MAHORAGA:** Mecanismo de autocura via snapshots Btrfs.
+* **ROOT:** Acesso ao núcleo de desenvolvimento do projeto.
 
-## 🏗️ Status de Engenharia [ALPHA 0.1]
-- **Host:** Fedora 43 Workstation (Nitro V15)
-- **Base do waiOS:** Arch Linux (Virtualizado via KVM)
-- **Sistema de Arquivos:** Btrfs com suporte a Snapshots (Fundação Mahoraga).
-- **Kernel:** Linux-Zen (Baixa latência).
+## 📑 Status do Desenvolvimento
+Atualmente em fase **Alpha 0.1**. O foco atual reside na estabilização do script **Genesis** e na arquitetura de subvolumes para recuperação de desastres.
